@@ -7,7 +7,8 @@
 + Navigate to the project directory
 + Install dependencies: npm install
 
-## Start the app: npm run dev
+## Start the app
+npm run dev
 Open http://localhost:5173/ to view it in the browser.
 
 ## Usage
