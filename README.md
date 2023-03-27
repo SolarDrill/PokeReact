@@ -14,7 +14,7 @@ Open http://localhost:5173/ to view it in the browser.
 ## Usage
 Once the app is running, you can search for Pokemons by typing their name in the search bar and hitting the search button. You can click on a Pokemon to view its details, and navigate through the list of searched Pokemons using the Previous and Next buttons.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or a pull request.
 
 ## License
